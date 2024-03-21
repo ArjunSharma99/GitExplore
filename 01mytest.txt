@@ -1,6 +1,3 @@
-1 - one function
-2 - two function
-3 - three function
-
-new function
-new +1 function
+1 - 
+2
+3
